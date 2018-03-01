@@ -1,0 +1,12 @@
+{
+  "name": "vue-practice",
+  "version": "1.0.0",
+  "description": "A Vue.js project",
+  "author": "Marina Harlach",
+  "private": true,
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "vue": "2.5.13"
+  }
+}
